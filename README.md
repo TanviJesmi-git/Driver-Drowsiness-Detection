@@ -2,7 +2,7 @@
 
 This repository contains a real-time Driver Drowsiness & Distraction Detection System built with computer vision (OpenCV, MediaPipe, TensorFlow Lite). The system combines head pose estimation, blink detection, and PERCLOS analysis to classify driver states (Alert, Medium, Critical, Distracted) and enhance road safety.
 
-#Overview
+# Overview
 
 Problem it solves: Drowsy and distracted driving is a leading cause of road accidents. Traditional blink-only detection systems often raise false alarms or miss distraction cues.
 Why it’s important/interesting: This project improves accuracy and real-time adaptability by combining:
